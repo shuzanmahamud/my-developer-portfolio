@@ -9,7 +9,7 @@ h2{
     font-size: 35px;
 }
 .orange-color{
-    color: orange;
+    color: rgb(21, 150, 224);
 }
 .flexible-container{
     display: flex;
@@ -24,7 +24,7 @@ h2{
 }
 .link-button{
     text-decoration: none;
-    background-color: rgba(241, 19, 19, 0.562);
+    background-color: rgba(28, 5, 32, 0.562);
     font-weight: 700;
     color: whitesmoke;
     padding: 10px 40px;
@@ -55,10 +55,10 @@ h2{
     border-left: 7px solid red;
 }
 #full-stack-developer{
-    border-left: 7px solid tomato;
+    border-left: 7px solid greenyellow;
 }
 #Junior-web-developer{
-    border-left: 7px solid blueviolet;
+    border-left: 7px solid rgb(118, 14, 216);
 }
 footer p{
 text-align: center;
